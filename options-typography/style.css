@@ -1,0 +1,50 @@
+/*
+Theme Name: Options Typography
+Theme URI: http://wptheming.com
+Description: An example theme for setting up typography options.
+Author: Devin Price
+Author URI: http://wptheming.com
+Version: 1.6.0
+Template:options-framework-theme
+*/
+
+body {
+	background:#eee;
+}
+
+body, input, textarea {
+	color: #373737;
+	font-size: 15px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	line-height: 1.625;
+}
+
+p {
+	margin:0 0 10px 0;
+}
+
+dd {
+ margin-left:0;
+}
+
+h1, h2, h3 {
+	margin:0 0 10px 0;
+}
+
+#page {
+	background:#fff;
+	min-width:440px;
+	max-width:740px;
+	width:60%;
+	margin:20px auto;
+}
+
+header {
+	background:#dedede;
+	padding:30px 40px;
+}
+
+.entry-content {
+	padding:20px 40px;
+}

@@ -1,0 +1,68 @@
+/*
+
+Remember, with great styling power comes great styling responsibility.
+Try to match the WordPress UI as best as possible.
+
+*/
+
+.updated {
+	max-height: auto;
+}
+#optionsframework {
+	border:none;
+	max-width:auto;
+}
+#optionsframework h3 {
+	display:none;
+}
+#optionsframework .section {
+	clear:both;
+	margin-bottom:20px;
+}
+#optionsframework .section .heading {
+	padding:0;
+	margin:0;
+	border-bottom: none;
+	clear:both;
+	float:left;
+	width:20%;
+	margin-right:5%;
+	font-weight:normal;
+	line-height:1.4;
+}
+#optionsframework .option {
+	float:left;
+	width:75%;
+}
+#optionsframework .section-info p {
+	float:left;
+	width:75%;
+	margin-top:0;
+}
+#optionsframework .section .explain {
+	clear:both;
+	max-width:100%;
+}
+#optionsframework .section .controls {
+	width:100%;
+}
+#optionsframework .controls select {
+	width:auto;
+}
+#optionsframework .section-background .wp-picker-container {
+	float:left;
+}
+#optionsframework .controls input.upload {
+	width:50%;
+}
+#optionsframework .controls input.upload_button {
+	float:none;
+}
+#optionsframework-submit {
+	border:none;
+	background:none;
+}
+#optionsframework .button-primary {
+	float:left;
+	margin-right:10px;
+}
